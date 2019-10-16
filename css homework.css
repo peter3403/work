@@ -1,0 +1,370 @@
+.bg {
+    width: 1260px;
+    height: 880px;
+    background-color: #edf2c5;
+  }
+  .Vegetables1 {
+    width: 271px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    position:relative;
+    top: 40px;
+    left:100px;
+  }
+  .btn_facebook {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    position:relative;
+    bottom: 0px;
+    left:845px;
+  }
+  .line_login {
+    width: 1px;
+    height: 25px;
+    background-color: #778a50;
+    color: #778a50;
+    position:relative;
+    bottom: 30px;
+    left:910px;
+  }
+  .btn_instagram {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    position:relative;
+    bottom: 0px;
+    left:850px;
+  }
+  .btn_LOGIN_box {
+    width: 60px;
+    height: 25px;
+    border: solid 1px #778a50;
+    position:relative;
+    bottom: 55px;
+    left:920px;
+  }
+  .btn_JOIN_box {
+    width: 49px;
+    height: 25px;
+    border: solid 1px #778a50;
+    position:relative;
+    bottom: 82px;
+    left:990px;
+  }
+  .login {
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.57;
+    letter-spacing: normal;
+    text-align: left;
+    color:
+    position:relative;
+    bottom: 100px;
+    left:1000px;
+  }
+  .join {
+    width: 35px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.57;
+    letter-spacing: normal;
+    text-align: left;
+    color:
+    position:relative;
+    bottom: 100px;
+    left:1000px;
+  }
+  .nav_box {
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+    position:relative;
+    bottom: 80px;
+    left:100px;
+  }
+  .Home {
+    width: 51px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    position:relative;
+    top: 5px;
+    left:-5px;
+  }
+  .About-Us {
+    width: 80px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    position:relative;
+    bottom: 33px;
+    left:100px;
+  }
+  .Vegetables2 {
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    position:relative;
+    bottom: 72px;
+    left:240px;
+  }
+  .Online {
+    width: 56px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    position:relative;
+    bottom: 112px;
+    left:400px;
+  }
+  .Contact1 {
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    position:relative;
+    bottom: 150px;
+    left:530px;
+  }
+  .img_main_pumpkin {
+    width: 940px;
+    height: 448px;
+    object-fit: contain;
+    position:relative;
+    bottom: 55px;
+    left:100px;
+  }
+  .body_box_vegetables {
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    position:relative;
+    bottom: 50px;
+    left:100px;
+  }
+  .Vegetables3 {
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    position:relative;
+    left:30px;
+  }
+  .img_vegetables_pepper {
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    position:relative;
+    bottom: 35px;
+    left:100px;
+  }
+  .img_vegetables_carrot {
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    position:relative;
+    bottom: 35px;
+    left:120px;
+  }
+  .img_vegetables_corn {
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    position:relative;
+    bottom: 35px;
+    left:110px;
+  }
+  .body_box_contact {
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    position:relative;
+    bottom: 258px;
+    left:595px;
+  }
+  .Contact3 {
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    position:relative;
+    bottom: 110px;
+    left:595px;
+  }
+  .body_box_contact_text {
+    width: 444px;
+    height: 140px;
+    background-color: #f7fbda;
+    position:relative;
+    bottom: 240px;
+    left:595px;
+  }
+  .For{
+    width: 414px;
+    height: 44px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    position:relative;
+    bottom: -15px;
+    left:15px;
+  }
+  .line_contact_text {
+    width: 414px;
+    height: 1px;
+    background-color: #7d7d7d;
+    position:relative;
+    bottom: -15px;
+    left:15px;
+  }
+  .body_box_contact_text {
+    width: 444px;
+    height: 140px;
+    background-color: #f7fbda;
+  }
+  .E-mail{
+    width: 197px;
+    height: 35px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    position:relative;
+    bottom: -12px;
+    left:15px;
+  }
+  .phone{
+    width: 197px;
+    height: 35px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    position:relative;
+    bottom: 35px;
+    left:15px;
+  }
+  .com{
+    width: 197px;
+    height: 35px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+  }
+  .box_footer {
+    width: 1260px;
+    height: 60px;
+    background-color: #778a50;
+    position:relative;
+    bottom: 220px;
+    left:px;
+  }
+  .Copyrights{
+    width: 301px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    position:relative;
+    bottom: -12px;
+    left:450px;
+  }
